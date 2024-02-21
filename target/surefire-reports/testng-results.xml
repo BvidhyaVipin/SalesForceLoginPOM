@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-16T20:16:21 GMT-05:00" name="Suite" finished-at="2024-02-16T20:17:09 GMT-05:00" duration-ms="48618">
+    <groups>
+    </groups>
+    <test started-at="2024-02-16T20:16:21 GMT-05:00" name="Test" finished-at="2024-02-16T20:17:09 GMT-05:00" duration-ms="48618">
+      <class name="com.SalesForce.TestScripts.SalesforceLoginAutomationScript">
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:16:21 GMT-05:00" name="setUpBeforeMethod" finished-at="2024-02-16T20:16:26 GMT-05:00" duration-ms="4809" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SalesforceLoginAutomationScript.testcase1()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="testcase1()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:16:26 GMT-05:00" name="testcase1" finished-at="2024-02-16T20:16:29 GMT-05:00" duration-ms="3182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:16:29 GMT-05:00" name="tearDownAfterTestMethod" finished-at="2024-02-16T20:16:29 GMT-05:00" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:16:29 GMT-05:00" name="setUpBeforeMethod" finished-at="2024-02-16T20:16:31 GMT-05:00" duration-ms="1659" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SalesforceLoginAutomationScript.testcase2()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="testcase2()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:16:31 GMT-05:00" name="testcase2" finished-at="2024-02-16T20:16:41 GMT-05:00" duration-ms="10552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:16:41 GMT-05:00" name="tearDownAfterTestMethod" finished-at="2024-02-16T20:16:42 GMT-05:00" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:16:42 GMT-05:00" name="setUpBeforeMethod" finished-at="2024-02-16T20:16:43 GMT-05:00" duration-ms="1602" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SalesforceLoginAutomationScript.testcase3()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="testcase3()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:16:43 GMT-05:00" name="testcase3" finished-at="2024-02-16T20:16:57 GMT-05:00" duration-ms="14120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:16:57 GMT-05:00" name="tearDownAfterTestMethod" finished-at="2024-02-16T20:16:57 GMT-05:00" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:16:57 GMT-05:00" name="setUpBeforeMethod" finished-at="2024-02-16T20:16:59 GMT-05:00" duration-ms="1620" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SalesforceLoginAutomationScript.testcase4A()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="testcase4A()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:16:59 GMT-05:00" name="testcase4A" finished-at="2024-02-16T20:17:05 GMT-05:00" duration-ms="6102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4A -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:17:05 GMT-05:00" name="tearDownAfterTestMethod" finished-at="2024-02-16T20:17:05 GMT-05:00" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:17:05 GMT-05:00" name="setUpBeforeMethod" finished-at="2024-02-16T20:17:07 GMT-05:00" duration-ms="1656" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SalesforceLoginAutomationScript.testcase4B()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="testcase4B()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:17:07 GMT-05:00" name="testcase4B" finished-at="2024-02-16T20:17:09 GMT-05:00" duration-ms="2079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4B -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.SalesForce.TestScripts.SalesforceLoginAutomationScript@1477089c]" started-at="2024-02-16T20:17:09 GMT-05:00" name="tearDownAfterTestMethod" finished-at="2024-02-16T20:17:09 GMT-05:00" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.SalesForce.TestScripts.SalesforceLoginAutomationScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

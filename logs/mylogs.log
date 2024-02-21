@@ -1,0 +1,1126 @@
+20240215 21:50:11 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Test has started....................
+20240215 21:50:12 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 21:50:12 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240215 21:50:12 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase2.......test execution started........
+20240215 21:50:12 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 21:50:12 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240215 21:50:12 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Test has ended....................
+20240215 21:51:32 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Test has started....................
+20240215 21:51:32 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 21:51:32 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240215 21:51:32 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase2.......test execution started........
+20240215 21:51:32 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 21:51:32 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240215 21:51:32 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Test has ended....................
+20240215 21:53:59 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 21:53:59 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 21:53:59 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240215 21:53:59 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 21:55:17 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 21:55:17 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 21:55:18 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 21:55:19 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 21:55:19 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 21:55:19 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240215 21:55:19 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 21:57:02 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 21:57:02 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 21:57:04 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 21:57:04 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 21:57:04 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 21:57:04 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240215 21:57:05 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 21:57:05 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 21:57:06 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 21:57:06 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java49 - test case 1 passed
+20240215 21:57:06 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240215 21:57:06 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 21:57:06 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 21:57:06 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 22:03:14 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Test has started....................
+20240215 22:03:14 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:03:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:03:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:03:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:03:16 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240215 22:03:17 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:03:18 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 22:03:18 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 22:03:18 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java48 - test case 1 passed
+20240215 22:03:18 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240215 22:03:19 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:03:19 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:03:19 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:03:19 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:03:19 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:03:20 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:03:20 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase2.......test execution started........
+20240215 22:03:20 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:03:20 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 22:03:29 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 22:03:29 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java73 - test case 2 passed
+20240215 22:03:29 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase2.......test execution completed with success........
+20240215 22:03:29 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:03:29 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:03:29 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:03:30 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:03:30 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:03:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:03:31 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 22:03:31 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:03:31 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 22:03:32 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 22:03:38 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 22:03:38 INFO  [main] Base.BasePage BasePage.java48 - logoutbutton is clicked
+20240215 22:03:43 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java99 - test case 3 passed
+20240215 22:03:43 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase3.......test execution completed with success........
+20240215 22:03:43 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:03:43 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:03:43 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:03:44 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:03:44 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:03:45 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:03:45 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240215 22:03:45 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:03:45 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240215 22:03:46 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:03:48 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240215 22:03:51 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4A.......test execution completed with success........
+20240215 22:03:51 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Test has ended....................
+20240215 22:25:12 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 22:25:12 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:25:14 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:25:14 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:25:15 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:25:15 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240215 22:25:15 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:25:16 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 22:25:17 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 22:25:17 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java49 - test case 1 passed
+20240215 22:25:17 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240215 22:25:17 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:25:17 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:25:17 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:25:18 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:25:18 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:25:18 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:25:18 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase2.......test execution started........
+20240215 22:25:19 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:25:19 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 22:25:27 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 22:25:27 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java72 - test case 2 passed
+20240215 22:25:27 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase2.......test execution completed with success........
+20240215 22:25:27 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:25:27 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:25:27 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:25:28 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:25:28 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:25:28 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:25:28 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 22:25:28 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:25:29 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 22:25:29 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 22:25:36 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 22:25:36 INFO  [main] Base.BasePage BasePage.java48 - logoutbutton is clicked
+20240215 22:25:41 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java104 - test case 3 passed
+20240215 22:25:41 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase3.......test execution completed with success........
+20240215 22:25:41 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:25:41 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:25:41 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:25:42 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:25:42 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:25:43 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:25:43 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240215 22:25:43 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:25:43 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240215 22:25:43 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:25:45 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240215 22:25:48 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4A.......test execution completed with success........
+20240215 22:25:48 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:25:48 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:25:48 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 22:37:35 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 22:37:35 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:37:36 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:37:36 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:37:37 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:37:37 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240215 22:37:37 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:37:38 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240215 22:37:38 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:37:40 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240215 22:37:43 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240215 22:37:43 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java132 - test case 4A passed
+20240215 22:37:43 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4A.......test execution completed with success........
+20240215 22:37:43 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:37:43 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:37:43 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 22:54:27 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 22:54:27 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:54:29 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:54:29 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:54:29 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:54:29 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4B.......test execution started........
+20240215 22:54:30 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:54:30 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 22:54:31 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 22:54:31 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240215 22:54:31 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240215 22:54:31 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4B.......test execution completed with success........
+20240215 22:54:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:54:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:54:31 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 22:55:07 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Test has started....................
+20240215 22:55:07 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:55:09 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:55:09 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:55:09 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:55:09 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240215 22:55:10 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:55:10 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 22:55:11 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 22:55:11 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java49 - test case 1 passed
+20240215 22:55:11 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240215 22:55:11 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:55:11 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:55:11 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:55:12 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:55:12 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:55:13 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:55:13 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase2.......test execution started........
+20240215 22:55:13 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:55:13 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 22:55:21 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 22:55:21 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java72 - test case 2 passed
+20240215 22:55:21 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase2.......test execution completed with success........
+20240215 22:55:21 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:55:21 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:55:21 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:55:22 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:55:22 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:55:22 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:55:22 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 22:55:23 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:55:23 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 22:55:23 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 22:55:29 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 22:55:29 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 22:55:30 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 22:55:30 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:55:30 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:55:30 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:55:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:55:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:55:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:55:31 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240215 22:55:31 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:55:32 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240215 22:55:32 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:55:34 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240215 22:55:37 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240215 22:55:37 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java132 - test case 4A passed
+20240215 22:55:37 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4A.......test execution completed with success........
+20240215 22:55:37 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:55:37 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:55:37 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:55:38 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:55:38 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:55:38 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:55:38 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4B.......test execution started........
+20240215 22:55:39 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:55:39 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 22:55:40 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 22:55:40 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240215 22:55:40 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240215 22:55:40 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4B.......test execution completed with success........
+20240215 22:55:40 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:55:40 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:55:40 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Test has ended....................
+20240215 22:57:20 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Test(failed) has started....................
+20240215 22:57:20 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 22:57:22 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 22:57:22 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 22:57:22 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 22:57:22 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 22:57:23 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 22:57:24 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 22:57:24 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 22:57:31 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 22:57:31 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 22:57:32 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 22:57:32 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 22:57:32 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 22:57:32 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Test(failed) has ended....................
+20240215 23:01:02 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 23:01:02 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:01:04 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:01:04 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:01:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:01:05 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 23:01:05 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:01:05 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:01:06 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 23:01:13 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:01:13 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 23:01:13 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 23:01:13 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:01:13 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:01:13 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 23:02:30 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 23:02:30 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:02:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:02:32 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:02:33 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:02:33 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 23:02:34 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:02:34 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:02:35 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 23:02:42 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:02:45 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 23:02:45 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 23:02:45 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:02:45 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:02:45 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 23:03:59 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 23:03:59 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:04:00 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:04:00 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:04:01 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:04:01 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 23:04:01 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:04:02 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:04:02 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 23:04:05 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:04:10 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 23:04:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 23:04:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:04:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:04:10 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 23:05:28 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Test has started....................
+20240215 23:05:29 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:05:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:05:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:05:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:05:31 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240215 23:05:33 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:05:33 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:05:34 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:05:35 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java49 - test case 1 passed
+20240215 23:05:35 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240215 23:05:35 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:05:35 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:05:35 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:05:36 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:05:36 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:05:37 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:05:37 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase2.......test execution started........
+20240215 23:05:37 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:05:38 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:05:45 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:05:45 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java72 - test case 2 passed
+20240215 23:05:45 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase2.......test execution completed with success........
+20240215 23:05:45 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:05:45 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:05:45 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:05:46 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:05:46 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:05:47 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:05:47 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 23:05:48 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:05:49 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:05:49 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 23:05:55 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:05:58 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 23:05:58 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 23:05:58 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:05:58 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:05:58 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:05:59 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:05:59 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:06:00 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:06:00 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240215 23:06:01 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:06:01 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240215 23:06:01 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:06:03 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240215 23:06:06 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240215 23:06:06 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java131 - test case 4A passed
+20240215 23:06:06 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4A.......test execution completed with success........
+20240215 23:06:07 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:06:07 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:06:07 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:06:08 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:06:08 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:06:08 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:06:08 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4B.......test execution started........
+20240215 23:06:09 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:06:09 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:06:10 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:06:10 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240215 23:06:10 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240215 23:06:10 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4B.......test execution completed with success........
+20240215 23:06:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:06:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:06:10 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Test has ended....................
+20240215 23:07:48 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 23:07:48 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:07:49 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:07:49 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:07:50 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:07:50 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 23:07:50 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:07:51 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:07:52 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 23:07:59 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:08:02 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 23:08:02 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 23:08:02 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:08:02 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:08:02 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 23:08:57 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 23:08:58 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:08:59 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:08:59 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:09:00 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:09:00 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 23:09:01 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:09:02 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:09:02 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 23:09:09 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:09:14 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 23:09:14 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 23:09:14 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:09:14 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:09:15 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 23:09:52 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 23:09:52 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:09:54 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:09:54 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:09:55 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:09:55 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 23:09:56 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:09:56 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:09:57 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 23:10:04 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:10:10 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 23:10:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 23:10:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:10:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:10:10 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 23:12:48 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 23:12:48 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:12:50 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:12:50 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:12:51 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:12:51 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 23:12:51 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:12:52 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:12:53 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 23:12:59 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:13:05 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 23:13:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 23:13:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:13:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:13:05 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 23:14:05 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 23:14:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:14:06 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:14:07 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:14:07 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:14:07 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 23:14:07 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:14:08 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:14:09 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 23:14:12 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:14:18 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 23:14:18 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 23:14:18 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:14:18 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:14:18 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 23:14:53 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 23:14:53 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:14:55 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:14:55 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:14:56 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:14:56 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 23:14:56 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:14:57 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:14:57 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 23:15:04 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:15:09 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 23:15:09 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 23:15:09 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:15:09 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:15:09 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 23:16:16 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 23:16:17 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:16:18 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:16:19 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:16:19 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:16:19 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 23:16:20 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:16:21 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:16:21 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 23:16:28 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:16:29 INFO  [main] Base.BasePage BasePage.java48 - user dropdownbutton is clicked
+20240215 23:16:30 INFO  [main] Base.BasePage BasePage.java48 - logoutbutton is clicked
+20240215 23:16:30 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 23:16:30 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 23:16:30 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:16:30 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:16:31 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 23:17:34 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 23:17:34 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:17:36 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:17:36 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:17:37 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:17:37 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 23:17:38 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:17:38 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:17:39 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 23:17:46 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:17:46 INFO  [main] Base.BasePage BasePage.java48 - user dropdownbutton is clicked
+20240215 23:17:47 INFO  [main] Base.BasePage BasePage.java48 - logoutbutton is clicked
+20240215 23:17:47 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240215 23:17:47 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240215 23:17:47 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:17:47 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:17:47 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240215 23:18:53 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240215 23:18:53 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240215 23:18:54 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240215 23:18:55 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240215 23:18:56 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240215 23:18:56 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240215 23:18:56 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240215 23:18:57 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240215 23:18:57 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240215 23:19:02 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240215 23:19:02 INFO  [main] Base.BasePage BasePage.java48 - user dropdownbutton is clicked
+20240215 23:19:04 INFO  [main] Base.BasePage BasePage.java48 - logoutbutton is clicked
+20240215 23:19:07 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java106 - test case 3 passed
+20240215 23:19:07 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase3.......test execution completed with success........
+20240215 23:19:07 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240215 23:19:07 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240215 23:19:07 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 09:08:06 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Test has started....................
+20240216 09:08:06 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 09:08:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 09:08:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 09:08:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 09:08:10 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240216 09:08:11 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 09:08:11 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 09:08:12 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 09:08:12 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java49 - test case 1 passed
+20240216 09:08:12 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240216 09:08:12 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 09:08:12 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 09:08:12 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 09:08:13 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 09:08:13 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 09:08:14 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 09:08:14 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase2.......test execution started........
+20240216 09:08:14 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 09:08:14 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 09:08:18 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 09:08:23 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java72 - test case 2 passed
+20240216 09:08:23 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase2.......test execution completed with success........
+20240216 09:08:23 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 09:08:23 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 09:08:23 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 09:08:24 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 09:08:24 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 09:08:24 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 09:08:24 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240216 09:08:25 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 09:08:25 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 09:08:26 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240216 09:08:33 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 09:08:33 INFO  [main] Base.BasePage BasePage.java48 - user dropdownbutton is clicked
+20240216 09:08:34 INFO  [main] Base.BasePage BasePage.java48 - logoutbutton is clicked
+20240216 09:08:38 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java105 - test case 3 passed
+20240216 09:08:38 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase3.......test execution completed with success........
+20240216 09:08:38 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 09:08:38 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 09:08:38 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 09:08:39 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 09:08:39 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 09:08:39 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 09:08:39 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240216 09:08:40 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 09:08:40 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240216 09:08:40 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 09:08:42 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240216 09:08:45 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240216 09:08:45 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java133 - test case 4A passed
+20240216 09:08:45 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4A.......test execution completed with success........
+20240216 09:08:46 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 09:08:46 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 09:08:46 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 09:08:46 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 09:08:47 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 09:08:47 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 09:08:47 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4B.......test execution started........
+20240216 09:08:47 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 09:08:48 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 09:08:49 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 09:08:49 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240216 09:08:49 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240216 09:08:49 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4B.......test execution completed with success........
+20240216 09:08:49 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 09:08:49 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 09:08:49 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Test has ended....................
+20240216 09:12:50 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 09:12:50 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 09:12:52 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 09:12:52 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 09:12:53 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 09:12:53 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240216 09:12:53 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase1.......test execution completed with failure........
+20240216 09:12:53 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java128 - captured the screen
+20240216 09:12:53 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 09:12:53 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 09:12:53 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 09:15:03 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 09:15:03 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 09:15:04 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 09:15:04 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 09:15:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 09:15:05 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240216 09:15:05 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 09:15:06 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 09:15:07 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 09:15:08 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java49 - test case 1 passed
+20240216 09:15:08 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240216 09:15:08 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 09:15:08 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 09:15:08 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 09:15:15 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 09:15:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 09:15:17 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 09:15:18 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 09:15:18 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 09:15:18 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase2.......test execution started........
+20240216 09:15:18 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase2.......test execution completed with failure........
+20240216 09:15:18 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase2.......test execution completed with failure........
+20240216 09:15:18 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 10:57:53 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Test has started....................
+20240216 10:57:53 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 10:57:56 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 10:57:56 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 10:57:57 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 10:57:57 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240216 10:57:57 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 10:57:58 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 10:57:59 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 10:57:59 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java49 - test case 1 passed
+20240216 10:57:59 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240216 10:57:59 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 10:57:59 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 10:57:59 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 10:58:00 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 10:58:00 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 10:58:00 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 10:58:00 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase2.......test execution started........
+20240216 10:58:00 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 10:58:01 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 10:58:09 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 10:58:09 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java72 - test case 2 passed
+20240216 10:58:09 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase2.......test execution completed with success........
+20240216 10:58:09 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 10:58:09 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 10:58:09 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 10:58:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 10:58:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 10:58:11 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 10:58:11 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240216 10:58:11 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 10:58:11 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 10:58:12 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240216 10:58:20 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 10:58:20 INFO  [main] Base.BasePage BasePage.java48 - user dropdownbutton is clicked
+20240216 10:58:21 INFO  [main] Base.BasePage BasePage.java48 - logoutbutton is clicked
+20240216 10:58:24 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java105 - test case 3 passed
+20240216 10:58:24 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase3.......test execution completed with success........
+20240216 10:58:24 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 10:58:24 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 10:58:24 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 10:58:25 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 10:58:25 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 10:58:25 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 10:58:25 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240216 10:58:26 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 10:58:26 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240216 10:58:26 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 10:58:28 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240216 10:58:31 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240216 10:58:31 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java133 - test case 4A passed
+20240216 10:58:31 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4A.......test execution completed with success........
+20240216 10:58:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 10:58:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 10:58:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 10:58:32 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 10:58:32 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 10:58:33 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 10:58:33 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4B.......test execution started........
+20240216 10:58:33 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 10:58:34 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 10:58:34 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 10:58:34 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240216 10:58:34 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240216 10:58:34 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4B.......test execution completed with success........
+20240216 10:58:34 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 10:58:34 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 10:58:34 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Test has ended....................
+20240216 11:03:14 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 11:03:14 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 11:03:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 11:03:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 11:03:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 11:03:16 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240216 11:03:17 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 11:03:18 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 11:03:18 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 11:03:18 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java49 - test case 1 passed
+20240216 11:03:18 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240216 11:03:18 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 11:03:18 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 11:03:19 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:16:21 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Test has started....................
+20240216 20:16:21 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 20:16:24 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 20:16:24 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 20:16:26 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 20:16:26 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240216 20:16:27 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:16:28 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:16:29 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:16:29 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java49 - test case 1 passed
+20240216 20:16:29 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240216 20:16:29 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 20:16:29 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 20:16:29 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 20:16:30 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 20:16:30 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 20:16:31 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 20:16:31 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase2.......test execution started........
+20240216 20:16:31 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:16:32 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:16:41 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:16:41 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java72 - test case 2 passed
+20240216 20:16:41 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase2.......test execution completed with success........
+20240216 20:16:42 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 20:16:42 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 20:16:42 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 20:16:42 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 20:16:43 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 20:16:43 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 20:16:43 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240216 20:16:44 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:16:44 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:16:44 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240216 20:16:51 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:16:53 INFO  [main] Base.BasePage BasePage.java48 - user dropdownbutton is clicked
+20240216 20:16:54 INFO  [main] Base.BasePage BasePage.java48 - logoutbutton is clicked
+20240216 20:16:57 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java105 - test case 3 passed
+20240216 20:16:57 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase3.......test execution completed with success........
+20240216 20:16:57 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 20:16:57 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 20:16:57 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 20:16:58 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 20:16:58 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 20:16:59 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 20:16:59 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240216 20:16:59 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:17:00 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240216 20:17:00 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:17:02 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240216 20:17:05 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240216 20:17:05 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java133 - test case 4A passed
+20240216 20:17:05 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4A.......test execution completed with success........
+20240216 20:17:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 20:17:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 20:17:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 20:17:06 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 20:17:06 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 20:17:07 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 20:17:07 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4B.......test execution started........
+20240216 20:17:08 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:17:08 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:17:08 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:17:09 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240216 20:17:09 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240216 20:17:09 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4B.......test execution completed with success........
+20240216 20:17:09 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 20:17:09 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 20:17:09 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Test has ended....................
+20240216 20:23:04 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:23:04 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 20:23:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 20:23:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 20:23:06 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 20:23:06 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240216 20:23:06 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:23:06 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:23:07 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:23:07 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java43 - test case 1 passed
+20240216 20:23:07 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240216 20:23:08 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 20:23:08 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 20:23:08 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:29:03 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:29:03 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 20:29:04 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 20:29:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 20:29:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 20:29:05 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240216 20:29:06 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:29:06 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:29:07 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:29:07 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java43 - test case 1 passed
+20240216 20:29:07 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240216 20:29:07 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 20:29:07 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 20:29:07 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:29:26 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:29:27 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java42 - before method setup executed
+20240216 20:29:28 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java65 - browser instance chrome created.
+20240216 20:29:28 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java68 - window is maximized
+20240216 20:29:29 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java104 - https://login.salesforce.com/is entered
+20240216 20:29:29 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase2.......test execution started........
+20240216 20:29:29 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:29:30 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:29:37 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:29:37 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java60 - test case 2 passed
+20240216 20:29:37 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase2.......test execution completed with success........
+20240216 20:29:37 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java111 - browser instance closed
+20240216 20:29:37 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java53 - method ended
+20240216 20:29:37 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:32:32 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java43 - before method setup executed
+20240216 20:32:33 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java66 - browser instance chrome created.
+20240216 20:32:33 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java69 - window is maximized
+20240216 20:32:34 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java105 - https://login.salesforce.com/is entered
+20240216 20:32:34 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:32:34 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java112 - browser instance closed
+20240216 20:32:34 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java54 - method ended
+20240216 20:36:05 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:36:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:36:06 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:36:06 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:36:07 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:36:07 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240216 20:36:08 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:36:08 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:36:09 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:36:09 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java43 - test case 1 passed
+20240216 20:36:09 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240216 20:36:09 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:36:09 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:36:09 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:36:15 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:36:15 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:36:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:36:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:36:17 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:36:17 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase2.......test execution started........
+20240216 20:36:18 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:36:18 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:36:26 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:36:26 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java60 - test case 2 passed
+20240216 20:36:26 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase2.......test execution completed with success........
+20240216 20:36:26 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:36:26 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:36:26 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:36:32 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:36:32 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:36:34 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:36:34 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:36:34 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:36:34 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240216 20:36:35 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:36:35 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:36:35 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240216 20:36:38 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:36:38 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:36:43 INFO  [main] Base.BasePage BasePage.java48 - user dropdownbutton is clicked
+20240216 20:37:16 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240216 20:37:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java127 - captured the screen
+20240216 20:37:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:37:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:37:16 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:39:15 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:39:15 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:39:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:39:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:39:17 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:39:17 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240216 20:39:18 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:39:18 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:39:18 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240216 20:39:26 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:39:26 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:39:26 INFO  [main] Base.BasePage BasePage.java48 - user dropdownbutton is clicked
+20240216 20:40:00 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240216 20:40:00 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java127 - captured the screen
+20240216 20:40:00 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:40:00 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:40:00 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:40:11 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:40:12 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:40:13 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:40:13 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:40:14 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:40:14 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240216 20:40:14 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:40:15 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:40:15 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240216 20:40:23 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:40:23 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:40:23 INFO  [main] Base.BasePage BasePage.java48 - user dropdownbutton is clicked
+20240216 20:40:23 INFO  [main] Base.BasePage BasePage.java48 - logoutbutton is clicked
+20240216 20:40:26 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java86 - test case 3 passed
+20240216 20:40:26 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase3.......test execution completed with success........
+20240216 20:40:26 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:40:26 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:40:26 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:40:34 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:40:34 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:40:35 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:40:35 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:40:36 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:40:36 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240216 20:40:36 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:40:37 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240216 20:40:37 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:40:37 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:40:39 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240216 20:40:42 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase4A.......test execution completed with failure........
+20240216 20:40:42 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java127 - captured the screen
+20240216 20:40:42 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:40:42 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:40:42 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:40:49 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:40:49 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:40:50 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:40:50 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:40:51 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:40:51 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240216 20:40:51 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:40:52 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240216 20:40:52 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:40:52 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:40:54 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240216 20:40:57 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase4A.......test execution completed with failure........
+20240216 20:40:57 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java127 - captured the screen
+20240216 20:40:57 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:40:57 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:40:58 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:42:01 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:42:01 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:42:03 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:42:03 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:42:03 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:42:03 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240216 20:42:04 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:42:05 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240216 20:42:05 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:42:05 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:42:07 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240216 20:42:10 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase4A.......test execution completed with failure........
+20240216 20:42:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java127 - captured the screen
+20240216 20:42:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:42:10 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:42:10 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:43:02 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:43:03 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:43:04 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:43:04 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:43:05 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:43:05 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240216 20:43:05 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:43:06 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240216 20:43:06 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:43:06 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:43:08 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240216 20:43:08 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase4A.......test execution completed with failure........
+20240216 20:43:08 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java127 - captured the screen
+20240216 20:43:08 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:43:08 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:43:08 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:43:40 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:43:40 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:43:41 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:43:41 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:43:42 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:43:42 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240216 20:43:42 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:43:43 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240216 20:43:43 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:43:43 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:43:45 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240216 20:43:48 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase4A.......test execution completed with failure........
+20240216 20:43:48 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java127 - captured the screen
+20240216 20:43:48 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:43:48 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:43:48 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:44:59 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:44:59 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:45:00 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:45:00 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:45:01 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:45:01 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase1.......test execution started........
+20240216 20:45:02 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:45:02 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:45:03 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:45:03 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java43 - test case 1 passed
+20240216 20:45:03 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase1.......test execution completed with success........
+20240216 20:45:03 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:45:03 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:45:03 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:45:14 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:45:14 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:45:15 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:45:15 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:45:16 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:45:16 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase2.......test execution started........
+20240216 20:45:16 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:45:17 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:45:25 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:45:25 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java60 - test case 2 passed
+20240216 20:45:25 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase2.......test execution completed with success........
+20240216 20:45:25 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:45:25 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:45:25 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:45:35 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:45:35 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:45:37 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:45:37 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:45:37 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:45:37 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240216 20:45:38 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:45:38 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:45:39 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240216 20:45:45 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:45:45 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:45:45 INFO  [main] Base.BasePage BasePage.java48 - user dropdownbutton is clicked
+20240216 20:46:18 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240216 20:46:18 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase3.......test execution completed with failure........
+20240216 20:46:18 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:46:20 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:46:20 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:46:21 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:46:21 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:46:22 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:46:22 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase3.......test execution started........
+20240216 20:46:23 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:46:23 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:46:23 INFO  [main] Base.BasePage BasePage.java48 - remember mebutton is clicked
+20240216 20:46:31 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:46:31 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:46:31 INFO  [main] Base.BasePage BasePage.java48 - user dropdownbutton is clicked
+20240216 20:46:31 INFO  [main] Base.BasePage BasePage.java48 - logoutbutton is clicked
+20240216 20:46:34 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java87 - test case 3 passed
+20240216 20:46:34 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase3.......test execution completed with success........
+20240216 20:46:35 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:46:35 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:46:35 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:47:04 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:47:04 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:47:06 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:47:06 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:47:07 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:47:07 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240216 20:47:08 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:47:08 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240216 20:47:08 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:47:08 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:47:10 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240216 20:47:13 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase4A.......test execution completed with failure........
+20240216 20:47:14 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java127 - captured the screen
+20240216 20:47:14 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:47:14 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:47:14 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:47:52 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:47:52 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:47:53 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:47:53 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:47:54 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:47:54 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4B.......test execution started........
+20240216 20:47:54 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:47:55 INFO  [main] Base.BasePage BasePage.java37 - data is entered in password field textbox
+20240216 20:47:55 INFO  [main] Base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240216 20:47:55 INFO  [main] Base.BasePage BasePage.java60 - text is extracted from wrong username and password
+20240216 20:47:55 INFO  [main] Base.BasePage BasePage.java60 - text is extracted from wrong username and password
+20240216 20:47:55 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4B.......test execution completed with success........
+20240216 20:47:56 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:47:56 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:47:56 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:48:27 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:48:27 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:48:28 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:48:28 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:48:29 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:48:29 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240216 20:48:30 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:48:30 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240216 20:48:30 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:48:31 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:48:32 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240216 20:48:32 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase4A.......test execution completed with failure........
+20240216 20:48:32 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java127 - captured the screen
+20240216 20:48:32 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:48:32 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:48:32 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:49:19 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:49:19 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:49:21 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:49:21 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:49:21 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:49:21 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240216 20:49:22 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:49:22 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240216 20:49:22 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:49:23 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:49:25 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240216 20:49:28 ERROR [main] Utilities.ListenersUtility ListenersUtility.java36 - testcase4A.......test execution completed with failure........
+20240216 20:49:28 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java127 - captured the screen
+20240216 20:49:28 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:49:28 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:49:28 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:50:18 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:50:19 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:50:20 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:50:20 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:50:21 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:50:21 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240216 20:50:21 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:50:22 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240216 20:50:22 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:50:22 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:50:24 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240216 20:50:27 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:50:27 INFO  [main] Base.BasePage BasePage.java60 - text is extracted from email send confirmation
+20240216 20:50:27 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java112 - test case 4A passed
+20240216 20:50:27 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4A.......test execution completed with success........
+20240216 20:50:27 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:50:27 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:50:27 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
+20240216 20:50:36 INFO  [main] Utilities.ListenersUtility ListenersUtility.java71 - Default test has started....................
+20240216 20:50:37 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java41 - before method setup executed
+20240216 20:50:38 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java64 - browser instance chrome created.
+20240216 20:50:38 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java67 - window is maximized
+20240216 20:50:39 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java103 - https://login.salesforce.com/is entered
+20240216 20:50:39 INFO  [main] Utilities.ListenersUtility ListenersUtility.java22 - testcase4A.......test execution started........
+20240216 20:50:39 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:50:40 INFO  [main] Base.BasePage BasePage.java48 - forgot passwordbutton is clicked
+20240216 20:50:40 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:50:40 INFO  [main] Base.BasePage BasePage.java37 - data is entered in Username textbox textbox
+20240216 20:50:42 INFO  [main] Base.BasePage BasePage.java48 - continuebutton is clicked
+20240216 20:50:42 INFO  [main] Base.BasePage BasePage.java75 - page title is extracted
+20240216 20:50:42 INFO  [main] Base.BasePage BasePage.java60 - text is extracted from email send confirmation
+20240216 20:50:42 INFO  [main] TestScripts.SalesforceLoginAutomationScript SalesforceLoginAutomationScript.java112 - test case 4A passed
+20240216 20:50:42 INFO  [main] Utilities.ListenersUtility ListenersUtility.java29 - testcase4A.......test execution completed with success........
+20240216 20:50:42 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java110 - browser instance closed
+20240216 20:50:42 INFO  [main] BaseTest.BaseTestForSalesForce BaseTestForSalesForce.java52 - method ended
+20240216 20:50:42 INFO  [main] Utilities.ListenersUtility ListenersUtility.java79 - Default test has ended....................
